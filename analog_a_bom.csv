@@ -4,7 +4,7 @@ Comment,Designator,Footprint,LCSC
 "2.2nF","C4,C1","Capacitor_SMD:C_0603_1608Metric","C1604"
 "200pF","C5","Capacitor_SMD:C_0603_1608Metric","C1600"
 "0.1uF","C7,C10,C8,C9,C14,C11,C12,C13","Capacitor_SMD:C_0603_1608Metric","C14663"
-"BAT54SW","D1","Package_TO_SOT_SMD:SOT-323_SC-70","C78260"
+"B5819W","D1,D2","Diode_SMD:D_SOD-123","C8598"
 "Conn_01x20_Male","J4,J3","Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
 "~","J5,J1,J2,J7,J6,J9","aaa:PJ301M-12"
 "Conn_02x08_Odd_Even","J8","Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
